@@ -1,0 +1,4 @@
+﻿  Actividad 3.cpp
+C:\Users\guill\source\repos\Actividad 3\Actividad 3\Actividad 3.cpp(32,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Actividad 3\Actividad 3\Actividad 3.cpp(32,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Actividad 3.vcxproj -> C:\Users\guill\source\repos\Actividad 3\Actividad 3\Debug\Actividad 3.exe
