@@ -1,0 +1,6 @@
+﻿  Actividad 6.cpp
+C:\Users\guill\source\repos\Actividad 6\Actividad 6\Actividad 6.cpp(19,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Actividad 6\Actividad 6\Actividad 6.cpp(19,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Actividad 6\Actividad 6\Actividad 6.cpp(64,34): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Actividad 6\Actividad 6\Actividad 6.cpp(65,34): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Actividad 6.vcxproj -> C:\Users\guill\source\repos\Actividad 6\Actividad 6\Debug\Actividad 6.exe
